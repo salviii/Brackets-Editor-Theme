@@ -1,0 +1,14 @@
+{
+    "name": "Ryzah.StarWarsTheme",
+    "title": "Star Wars Theme",
+    "description": "A theme made with colors similar to the ones in the Star Wars movies.",
+    "version": "1.0.0",
+    "author": "Ryzah",
+    "license": "The don't steal my shit license",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "starwars", "nerdyboi"]
+}
